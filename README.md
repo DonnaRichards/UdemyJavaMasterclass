@@ -4,3 +4,4 @@ Adding the Intellij projects I've created for each section and/or challenge here
 
 Section 5 - Expressions, Statements and More  
 Section 6 - Control Flow  
+Section 7 - OOP Part 1 - Inheritance  
